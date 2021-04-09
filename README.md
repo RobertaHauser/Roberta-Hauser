@@ -1,7 +1,4 @@
 <img src="images/foto1.jpg" width="100">
-
-
-## Portfólio
 Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
 
 ### Educação
@@ -22,12 +19,30 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 - Python para Data Science - 10hs
 - Access – 8hs
 
-### Outros conhecimentos
+### Idioma
 - Inglês: Nível intermediário, Cultura Inglesa - concluído
+
+### Outros conhecimentos
 - Pacote Office (macros, tabela dinâmica, funções, gráficos e VBA)
+
+### Projetos
 - Django/Python:  [CRUD](https://cursopythoncrudwebdesignemfoco.herokuapp.com/)
 
+
 ### Experiência profissional
+### PRINCIPAIS ATIVIDADES
+_Certificação e manutenção do sistema de gestão da qualidade ISO 9001 e atendimento aos requisitos de qualidade dos clientes:
+
+_- Levantamento e implantação de requisitos normativos e de fornecimento;
+_- Mapeamento de processos;
+_- Revisão e elaboração de documentação técnica;
+_- Treinamento e suporte das equipes;
+_- Integração com todas as áreas;
+_- Identificação de riscos e oportunidades do negócio;
+_- Gestão de KPIs;
+_- Apresentação mensal dos resultados à direção. 
+_- Gestão de não conformidades, identificação do problema, análise da causa raiz e proposta de soluções; 
+_- Planejamento e acompanhamento da execução do desenvolvimento dos projetos.
 
 **Service Metal Ribeirão - Analista da Qualidade (2020 – atual)**
 - Desenvolvimento em Access de sistema de emissão de certificados, gerando redução de 30% na mão de obra.
@@ -43,40 +58,25 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 **Dinâmica Usinagens - Diretora de QSMS (2012 a 2013)**
 - Em poucos meses conquistar a aprovação em auditoria para fornecimento para Siemens.
 
- MANA Engenharia e Consultoria - Analista de QSMS Pleno (2010 a 2012)
+**MANA Engenharia e Consultoria - Analista de QSMS Pleno (2010 a 2012)**
 - Levantamento dos requisitos exigidos pela Petrobras para cada projeto.
 - Treinamento e apoio de diferentes equipes, gerentes e diretores para o atendimento aos requisitos.
 
- VINIGÁS Ind. e Com. de Comp. para Gás - Supervisora do CQ (2001 a 2008)
+**UnG – Universidade de Guarulhos - Professor Universitário (2008 a 2010)**
+- Lecionar em curso superior.
+- Orientar e avaliar trabalhos de conclusão de curso (TCC).
+- Disciplinas ministradas: Qualidade, Software (SIGMA) e Gestão de Projetos.
+
+**VINIGÁS Ind. e Com. de Comp. para Gás - Supervisora do CQ (2001 a 2008)**
 - Desenvolvimento de sistema de controle de estoque em Excel.
 - Levantamento e análise mensal dos índices de perdas, causas e ações.
 - Conquista da certificação ISO 9001, para iniciar a comercialização com grandes varejistas.
 
-PRINCIPAIS ATIVIDADES
-Certificação e manutenção do sistema de gestão da qualidade ISO 9001 e atendimento aos requisitos de qualidade dos clientes:
-
-- Levantamento e implantação de requisitos normativos e de fornecimento;
-- Mapeamento de processos;
-- Revisão e elaboração de documentação técnica;
-- Treinamento e suporte das equipes;
-- Integração com todas as áreas;
-- Identificação de riscos e oportunidades do negócio;
-- Gestão de KPIs;
-- Apresentação mensal dos resultados à direção. 
-- Gestão de não conformidades, identificação do problema, análise da causa raiz e proposta de soluções; 
-- Planejamento e acompanhamento da execução do desenvolvimento dos projetos.
 
 
 
 
-
- UnG – Universidade de Guarulhos - Professor Universitário (2008 a 2010)
-- Lecionar em curso superior.
-- Orientar e avaliar trabalhos de conclusão de curso (TCC).
-
-Disciplinas ministradas: Qualidade, Software (SIGMA) e Gestão de Projetos.
-
-METAS DE DESENVOLVIMENTO
+### METAS DE DESENVOLVIMENTO
 2022 – Conclusão da graduação em análise e desenvolvimento de sistemas
 2023 – Certificação em banco de dados Microsoft ou Oracle
 2024 – Teste de proficiência em inglês
