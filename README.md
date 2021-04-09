@@ -31,9 +31,9 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 
 ### Experiência profissional
 ### PRINCIPAIS ATIVIDADES
-_Certificação e manutenção do sistema de gestão da qualidade ISO 9001 e atendimento aos requisitos de qualidade dos clientes:
+_Certificação e manutenção do sistema de gestão da qualidade ISO 9001 e atendimento aos requisitos de qualidade dos clientes:_
 
-_- Levantamento e implantação de requisitos normativos e de fornecimento;
+_- Levantamento e implantação de requisitos normativos e de fornecimento;_
 _- Mapeamento de processos;
 _- Revisão e elaboração de documentação técnica;
 _- Treinamento e suporte das equipes;
