@@ -1,4 +1,5 @@
-![](images/foto1.jpg)
+<img src="images/foto1.jpg" width="100">
+
 
 ## Portfólio
 Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
