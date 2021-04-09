@@ -19,10 +19,10 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 - Python para Data Science - 10hs
 - Access – 8hs
 
-OUTROS CONHECIMENTOS
+### Outros conhecimentos
 - Inglês: Nível intermediário, Cultura Inglesa - concluído
 - Pacote Office (macros, tabela dinâmica, funções, gráficos e VBA)
-- Django/Python: https://cursopythoncrudwebdesignemfoco.herokuapp.com/
+- Django/Python:  [CRUD](https://cursopythoncrudwebdesignemfoco.herokuapp.com/)
 
 
 
