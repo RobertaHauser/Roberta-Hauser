@@ -1,4 +1,5 @@
-![foto1](https://user-images.githubusercontent.com/67512621/114144518-cb458700-98eb-11eb-9f57-e97c36127dd8.jpg)
+
+
 ## Portfólio
 Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
 
