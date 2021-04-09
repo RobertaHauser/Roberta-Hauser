@@ -27,22 +27,23 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 
 ### Projetos
 - Django/Python:  [CRUD](https://cursopythoncrudwebdesignemfoco.herokuapp.com/)
-
+- C#: [CRUD]()
+- Access: [Sistema para emissão de certificado de análise de material]()
 
 ### Experiência profissional
 ### PRINCIPAIS ATIVIDADES
 _Certificação e manutenção do sistema de gestão da qualidade ISO 9001 e atendimento aos requisitos de qualidade dos clientes:_
 
-_- Levantamento e implantação de requisitos normativos e de fornecimento;_
-_- Mapeamento de processos;
-_- Revisão e elaboração de documentação técnica;
-_- Treinamento e suporte das equipes;
-_- Integração com todas as áreas;
-_- Identificação de riscos e oportunidades do negócio;
-_- Gestão de KPIs;
-_- Apresentação mensal dos resultados à direção. 
-_- Gestão de não conformidades, identificação do problema, análise da causa raiz e proposta de soluções; 
-_- Planejamento e acompanhamento da execução do desenvolvimento dos projetos.
+_- Levantamento e implantação de requisitos normativos e de fornecimento._
+_- Mapeamento de processos._
+_- Revisão e elaboração de documentação técnica._
+_- Treinamento e suporte das equipes._
+_- Integração com todas as áreas._
+_- Identificação de riscos e oportunidades do negócio._
+_- Gestão de KPIs._
+_- Apresentação mensal dos resultados à direção._
+_- Gestão de não conformidades, identificação do problema, análise da causa raiz e proposta de soluções._
+_- Planejamento e acompanhamento da execução do desenvolvimento dos projetos._
 
 **Service Metal Ribeirão - Analista da Qualidade (2020 – atual)**
 - Desenvolvimento em Access de sistema de emissão de certificados, gerando redução de 30% na mão de obra.
@@ -74,5 +75,4 @@ _- Planejamento e acompanhamento da execução do desenvolvimento dos projetos.
 
 ### METAS DE DESENVOLVIMENTO
 2022 – Conclusão da graduação em análise e desenvolvimento de sistemas
-2023 – Certificação em banco de dados Microsoft ou Oracle
-2024 – Teste de proficiência em inglês
+2023 – Teste de proficiência em inglês
