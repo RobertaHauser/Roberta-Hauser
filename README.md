@@ -1,3 +1,4 @@
+![Image](src)
 ## Portfólio
 Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
 
@@ -24,22 +25,20 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 - Pacote Office (macros, tabela dinâmica, funções, gráficos e VBA)
 - Django/Python:  [CRUD](https://cursopythoncrudwebdesignemfoco.herokuapp.com/)
 
+### Experiência profissional
 
-
-PRINCIPAIS DESAFIOS E CONQUISTAS
-
- Service Metal Ribeirão - Analista da Qualidade (2020 – atual)
+**Service Metal Ribeirão - Analista da Qualidade (2020 – atual)**
 - Desenvolvimento em Access de sistema de emissão de certificados, gerando redução de 30% na mão de obra.
 - Levantamento e análise mensal dos índices de perdas, causas e ações.
 
 
- AGCO Máquinas Agrícolas - Analista da Qualidade Pleno (2013 – 2019)
+**AGCO Máquinas Agrícolas - Analista da Qualidade Pleno (2013 – 2019)**
 - Key user no processo de integração dos sistemas: JD Edwards (Oracle), Ariba (SAP), Salesforce, SoftExpert EQM e Checklistfácil. 
 - Suporte e treinamento de usuários.
 - Reconhecimento pela presidência global por ser a primeira unidade a certificar na nova versão ISO 9001.  
 - Responsável pelo budget da área
 
- Dinâmica Usinagens - Diretora de QSMS (2012 a 2013)
+**Dinâmica Usinagens - Diretora de QSMS (2012 a 2013)**
 - Em poucos meses conquistar a aprovação em auditoria para fornecimento para Siemens.
 
  MANA Engenharia e Consultoria - Analista de QSMS Pleno (2010 a 2012)
