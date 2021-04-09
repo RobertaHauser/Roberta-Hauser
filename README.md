@@ -1,4 +1,4 @@
-
+![](images/foto1.jpg)
 
 ## Portfólio
 Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
