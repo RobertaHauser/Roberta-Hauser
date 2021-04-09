@@ -1,3 +1,6 @@
+## Portfólio
+Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
+
 ### Educação
 - Análise e Desenvolvimento de Sistemas, Estácio – cursando
 - MBA Qualidade e Produtividade, UNINOVE;
