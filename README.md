@@ -26,7 +26,7 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 - Pacote Office (macros, tabela dinâmica, funções, gráficos e VBA)
 
 ### Projetos
-- Django/Python:  [CRUD](https://cursopythoncrudwebdesignemfoco.herokuapp.com/)
+- Django/Python:  [CRUD Cadastro de carros](https://cursopythoncrudwebdesignemfoco.herokuapp.com/)
 - C#: [CRUD]()
 - Access: [Sistema para emissão de certificado de análise de material]()
 
