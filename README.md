@@ -1,5 +1,11 @@
 <img src="images/foto1.jpg" width="100">
-Profissional em transição de carreira da Engenharia de Produção para área de tecnologia.
+(16) 99777-1326 - roberta.hauser@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/roberta-benigna-goncalves/)
+
+Estou cursando análise e desenvolvimento de sistemas, sou uma profissional em transição de carreira, formada em engenharia de produção. Busco oportunidade na área de tecnologia para desenvolvimento técnico, tenho realizado cursos e videoaulas na área. Minha experiência pode agregar valor ao negócio (gestão de processos, análise e solução de problemas, gestão de KPI 's, elaboração de documentação técnica, treinamento e apoio a equipe).
+
+Conhecimento básico em: Python 3, C#, PHP, SQL, MySQL, Power Bi, HTML5 e CSS3, Lógica de programação, Access/VBA e Excel.
 
 ### Educação
 - Análise e Desenvolvimento de Sistemas, Estácio – cursando
@@ -10,14 +16,15 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 
 ### Cursos
 - SQL com MySQL - 70hs
-- Power Bi Desktop – 50hs
-- HTML5 e CSS3 - I a IV – 32hs
+- SQL Server – 12hs
+- Microsoft Power BI - 50hs
+- Python para Data Science – 12hs
+- Python 3 - 52hs
+- C# - 8hs
 - PHP - 26hs
+- HTML5 e CSS3 - I a IV – 32hs
 - Lógica de programação I e II – 26hs
-- SQL Server 2017 -12hs
-- Python – 12hs
-- Python para Data Science - 10hs
-- Access – 8hs
+- Microsoft Access - 8hs
 
 ### Idioma
 - Inglês: Nível intermediário, Cultura Inglesa - concluído
@@ -31,19 +38,19 @@ Profissional em transição de carreira da Engenharia de Produção para área d
 - Access: [Sistema para emissão de certificado de análise de material]()
 
 ### Experiência profissional
-### PRINCIPAIS ATIVIDADES
-_Certificação e manutenção do sistema de gestão da qualidade ISO 9001 e atendimento aos requisitos de qualidade dos clientes:_
+#### Principais atividades desenvolvidas:
+- Levantamento e implantação de requisitos normativos e de fornecimento;
+- Mapeamento de processos;
+- Revisão e elaboração de documentação técnica;
+- Treinamento e suporte das equipes;
+- Integração com todas as áreas;
+- Identificação de riscos e oportunidades do negócio;
+- Gestão de KPIs e apresentação mensal dos resultados à direção;
+- Gestão de não conformidades, identificação do problema, análise da causa raiz e proposta de soluções; 
+- Planejamento e acompanhamento da execução do desenvolvimento dos projetos.
 
-_- Levantamento e implantação de requisitos normativos e de fornecimento._
-_- Mapeamento de processos._
-_- Revisão e elaboração de documentação técnica._
-_- Treinamento e suporte das equipes._
-_- Integração com todas as áreas._
-_- Identificação de riscos e oportunidades do negócio._
-_- Gestão de KPIs._
-_- Apresentação mensal dos resultados à direção._
-_- Gestão de não conformidades, identificação do problema, análise da causa raiz e proposta de soluções._
-_- Planejamento e acompanhamento da execução do desenvolvimento dos projetos._
+
+
 
 **Service Metal Ribeirão - Analista da Qualidade (2020 – atual)**
 - Desenvolvimento em Access de sistema de emissão de certificados, gerando redução de 30% na mão de obra.
@@ -75,4 +82,5 @@ _- Planejamento e acompanhamento da execução do desenvolvimento dos projetos._
 
 ### METAS DE DESENVOLVIMENTO
 2022 – Conclusão da graduação em análise e desenvolvimento de sistemas
+
 2023 – Teste de proficiência em inglês
